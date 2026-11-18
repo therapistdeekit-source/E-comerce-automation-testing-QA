@@ -142,14 +142,6 @@ Through this project, I am developing practical skills in:
 - Using Git and GitHub for version control.
 - Understanding real-world e-commerce testing workflows.
 
-## Future Improvements
-
-- Expand automated test coverage.
-- Implement reusable functions and fixtures.
-- Add positive and negative test scenarios.
-- Introduce assertions and validation checks.
-- Generate HTML test reports.
-- Integrate automated tests into a CI/CD pipeline.
 
 ## Author
 
